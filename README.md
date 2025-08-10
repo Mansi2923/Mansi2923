@@ -3,7 +3,7 @@
 
 🎓 CS @ Syracuse University, ‘25 &nbsp;|&nbsp; ex-Boeing  
 🍎 iOS & full-stack engineer — SwiftUI devotee, clean architecture enthusiast  
-🌐 [Portfolio](https://mansi-portfolio-iota.vercel.app) &nbsp;|&nbsp; 📮 sawantmanasi239@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/mansi-sawant-a344161b4)
+🌐 [Portfolio](https://newportfolio-xopn.vercel.app) &nbsp;|&nbsp; 📮 sawantmanasi239@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/mansi-sawant-a344161b4)
 
 ---
 
